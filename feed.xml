@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tedbecca Spaces</title>
+    <link>https://prowdfrypan.github.io/tbspace/</link>
+    <language>en</language>
+    <itunes:author>@closer2fine</itunes:author>
+    <description>
+	Spaces hosted by @closer2fine in Podcast form!
+    </description>
+    <itunes:image
+      href="https://pbs.twimg.com/media/Fs95PPNWABkx5WY?format=jpg&name=medium"
+    />
+    <itunes:category text="Arts" />
+    <itunes:explicit>false</itunes:explicit>
+
+<!-- Episodes -->
+
+    <item>
+      <title>TedCap - Ted Lasso spoilers (warning) TEDBECCA. (Be respectful)</title>
+      <enclosure
+        url="https://prowdfrypan.github.io/tbspace/audio/20230309.mp3"
+        length="99800973"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230309</guid>
+      <pubDate>Thur, 9 Mar 2023 03:00:00 GMT</pubDate>
+      <itunes:duration>02:36:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Let’s Talk About It - RESPECTFULLY.  IYKYK.</title>
+      <enclosure
+        url="https://prowdfrypan.github.io/tbspace/audio/20221018-1.mp3"
+        length="153334509"
+        type="audio/mpeg"
+        />
+      <guid>tbs20221018-1</guid>
+      <pubDate>Tue, 18 Oct 2022 03:00:00 GMT</pubDate>
+      <itunes:duration>02:39:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>TedBecca and Jam. IYKYK</title>
+      <enclosure
+        url="https://prowdfrypan.github.io/tbspace/audio/20221013.mp3"
+        length="243533421"
+        type="audio/mpeg"
+        />
+      <guid>tbs20221013</guid>
+      <pubDate>Thur, 13 Oct 2022 03:00:00 GMT</pubDate>
+      <itunes:duration>04:13:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
