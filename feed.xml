@@ -108,5 +108,50 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>TedBecca space about KISSING.</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20221218.mp3"
+        length="218157117"
+        type="audio/mpeg"
+        />
+      <guid>tbs20221218</guid>
+      <pubDate>Sun, 18 Dec 2022 06:09:00 GMT</pubDate>
+      <itunes:duration>05:26:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>[redacted] - take your meds chat</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20220929.mp3"
+        length="101204301"
+        type="audio/mpeg"
+        />
+      <guid>tbs20220929</guid>
+      <pubDate>Thu, 29 Sep 2022 05:30:00 GMT</pubDate>
+      <itunes:duration>02:21:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Ted Lasso sort of but not really- math, linguistics and kissing</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20221011.mp3"
+        length="179760141"
+        type="audio/mpeg"
+        />
+      <guid>tbs20221011</guid>
+      <pubDate>Tue, 11 Oct 2022 05:14:00 GMT</pubDate>
+      <itunes:duration>04:16:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
