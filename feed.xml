@@ -3,21 +3,24 @@
   <channel>
     <title>Tedbecca Spaces</title>
     <link>https://prowdfrypan.github.io/tbspace/</link>
-    <language>en</language>
+    <language>en-us</language>
     <itunes:author>@closer2fine</itunes:author>
     <description>
-	Spaces hosted by @closer2fine in Podcast form!
+      Spaces hosted by @closer2fine in Podcast form!
     </description>
     <itunes:image
       href="https://pbs.twimg.com/media/Fs95PPNWABkx5WY?format=jpg&name=medium"
     />
-    <itunes:category text="Arts" />
+    <itunes:category text="Arts">
+    </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 
 <!-- Episodes -->
 
     <item>
       <title>TedCap - Ted Lasso spoilers (warning) TEDBECCA. (Be respectful)</title>
+      <description>
+      </description>
       <enclosure
         url="https://prowdfrypan.github.io/tbspace/audio/20230309.mp3"
         length="99800973"
@@ -31,6 +34,9 @@
 
     <item>
       <title>Let’s Talk About It - RESPECTFULLY.  IYKYK.</title>
+      <description>
+        NannyGate
+      </description>
       <enclosure
         url="https://prowdfrypan.github.io/tbspace/audio/20221018-1.mp3"
         length="153334509"
@@ -44,6 +50,8 @@
 
     <item>
       <title>TedBecca and Jam. IYKYK</title>
+      <description>
+      </description>
       <enclosure
         url="https://prowdfrypan.github.io/tbspace/audio/20221013.mp3"
         length="243533421"
