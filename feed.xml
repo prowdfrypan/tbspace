@@ -168,5 +168,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Ted Lasso Chat about Kissing (not football) (After Dark)</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20220925.mp3"
+        length="287236486"
+        type="audio/mpeg"
+        />
+      <guid>tbs20220925</guid>
+      <pubDate>Mon, 25 Sep 2022 03:19:00 GMT</pubDate>
+      <itunes:duration>07:12:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
