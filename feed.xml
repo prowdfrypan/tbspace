@@ -153,5 +153,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Ted Lasso - s3 - 1/13/23 also what if Nora Ephron wrote a sports movie</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20220921.mp3"
+        length="216857637"
+        type="audio/mpeg"
+        />
+      <guid>tbs20220921</guid>
+      <pubDate>Wed, 21 Sep 2022 06:53:00 GMT</pubDate>
+      <itunes:duration>05:03:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
