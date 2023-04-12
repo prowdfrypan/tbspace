@@ -183,5 +183,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>TedBecca Tuesday not 7k people Angry Fans in his Toilet (affectionate)</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230412.mp3"
+        length="105520749"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230412</guid>
+      <pubDate>Wed, 12 Apr 2022 09:50:00 GMT</pubDate>
+      <itunes:duration>02:36:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
