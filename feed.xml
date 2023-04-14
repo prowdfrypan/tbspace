@@ -243,5 +243,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>TedBecca is Risen rising - ep spoilers, speculation and kissing</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230410.mp3"
+        length="509402981"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230410</guid>
+      <pubDate>Mon, 10 Apr 2023 04:35:00 GMT</pubDate>
+      <itunes:duration>04:25:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
