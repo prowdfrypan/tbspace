@@ -213,5 +213,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Let’s Do the TedBecca Questionnaire until L&O time.</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20220923.mp3"
+        length="113804589"
+        type="audio/mpeg"
+        />
+      <guid>tbs20220923</guid>
+      <pubDate>Fri, 23 Sep 2022 05:11:00 GMT</pubDate>
+      <itunes:duration>02:47:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
