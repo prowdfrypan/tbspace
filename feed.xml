@@ -228,5 +228,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Ted Lasso - time zone (friendlier) chat. It’s about the kissing.</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20220924.mp3"
+        length="157103373"
+        type="audio/mpeg"
+        />
+      <guid>tbs20220924</guid>
+      <pubDate>Sat, 24 Sep 2022 08:22:00 GMT</pubDate>
+      <itunes:duration>03:43:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
