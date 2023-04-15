@@ -273,5 +273,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>TedBecca Thursday - no chaos but SPOILERS RECORDING</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230405.mp3"
+        length="161827343"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230405</guid>
+      <pubDate>Wed, 05 Apr 2023 01:50:16 GMT</pubDate>
+      <itunes:duration>02:48:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
