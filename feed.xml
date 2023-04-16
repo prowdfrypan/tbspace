@@ -203,12 +203,12 @@
       <description>
       </description>
       <enclosure
-        url="https://feedthedog.synology.me/tbspace/audio/20230414.mp3"
-        length="187530813"
+        url="https://prowdfrypan.github.io/tbspace/audio/20230413.mp3"
+        length="149995296"
         type="audio/mpeg"
         />
-      <guid>tbs20230414</guid>
-      <pubDate>Thu, 14 Apr 2023 06:14:00 GMT</pubDate>
+      <guid>tbs20230413</guid>
+      <pubDate>Thu, 13 Apr 2023 22:14:49 GMT</pubDate>
       <itunes:duration>04:41:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
