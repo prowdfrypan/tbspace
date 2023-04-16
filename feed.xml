@@ -323,11 +323,11 @@
       <description>
       </description>
       <enclosure
-        url="https://feedthedog.synology.me/tbspace/audio/20230331.mp3"
-        length="222038928"
+        url="https://feedthedog.synology.me/tbspace/audio/20230330.mp3"
+        length="120962568"
         type="audio/mpeg"
         />
-      <guid>tbs20230331</guid>
+      <guid>tbs20230330</guid>
       <pubDate>Thu, 30 Mar 2023 21:10:40 GMT</pubDate>
       <itunes:duration>03:51:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
