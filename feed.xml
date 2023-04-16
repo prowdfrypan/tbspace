@@ -348,5 +348,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Ted Lasso Thursday - spoilers, TedBecca, predictions…</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230323.mp3"
+        length="66389880"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230323</guid>
+      <pubDate>Thu, 23 Mar 2023 22:51:30 GMT</pubDate>
+      <itunes:duration>02:07:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
