@@ -378,5 +378,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Saturday Ted Lasso/TedBecca space!!</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230318.mp3"
+        length="182001984"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230318</guid>
+      <pubDate>Sat, 18 Mar 2023 17:04:39 GMT</pubDate>
+      <itunes:duration>05:49:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
