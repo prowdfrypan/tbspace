@@ -22,7 +22,7 @@
       <description>
       </description>
       <enclosure
-        url="https://feedthedog.synology.me/tbspace/audio/20230309.mp3"
+        url="https://prowdfrypan.github.io/tbspace/audio/20230309.mp3"
         length="99800973"
         type="audio/mpeg"
         />
@@ -98,7 +98,7 @@
       <description>
       </description>
       <enclosure
-        url="https://feedthedog.synology.me/tbspace/audio/20221119.mp3"
+        url="https://prowdfrypan.github.io/tbspace/audio/20221119.mp3"
         length="56493093"
         type="audio/mpeg"
         />
@@ -308,7 +308,7 @@
       <description>
       </description>
       <enclosure
-        url="https://feedthedog.synology.me/tbspace/audio/20230416.mp3"
+        url="https://prowdfrypan.github.io/tbspace/audio/20230416.mp3"
         length="31604304"
         type="audio/mpeg"
         />
@@ -338,7 +338,7 @@
       <description>
       </description>
       <enclosure
-        url="https://feedthedog.synology.me/tbspace/audio/20230329.mp3"
+        url="https://prowdfrypan.github.io/tbspace/audio/20230329.mp3"
         length="81570624"
         type="audio/mpeg"
         />
@@ -368,7 +368,7 @@
       <description>
       </description>
       <enclosure
-        url="https://feedthedog.synology.me/tbspace/audio/20230322.mp3"
+        url="https://prowdfrypan.github.io/tbspace/audio/20230322.mp3"
         length="55461384"
         type="audio/mpeg"
         />
@@ -390,6 +390,21 @@
       <guid>tbs20230318</guid>
       <pubDate>Sat, 18 Mar 2023 17:04:39 GMT</pubDate>
       <itunes:duration>05:49:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Ted Lasso - premiere, press, and TEDBECCA talk.</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://prowdfrypan.github.io/tbspace/audio/20230316.mp3"
+        length="65241384"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230316</guid>
+      <pubDate>Thu, 16 Mar 2023 22:25:33 GMT</pubDate>
+      <itunes:duration>02:04:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
