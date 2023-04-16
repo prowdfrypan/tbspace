@@ -43,7 +43,7 @@
         />
       <guid>tbs20220920</guid>
       <pubDate>Tue, 20 Sep 2022 22:53:34 GMT</pubDate>
-      <itunes:duration>05:03:56</itunes:duration>
+      <itunes:duration>05:03:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -58,7 +58,7 @@
         />
       <guid>tbs20220922</guid>
       <pubDate>Thu, 22 Sep 2022 21:11:48 GMT</pubDate>
-      <itunes:duration>02:47:23</itunes:duration>
+      <itunes:duration>02:47:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -67,13 +67,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20220924-1 Ted Lasso - time zone (friendlier) chat. It’s about the kissing..mp3"
+        length="157103373"
         type="audio/mpeg"
         />
       <guid>tbs20220924-1</guid>
       <pubDate>Sat, 24 Sep 2022 00:22:07 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>03:43:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -82,13 +82,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20220924-2 Ted Lasso Chat about Kissing (not football) (After Dark).mp3"
+        length="287236486"
         type="audio/mpeg"
         />
       <guid>tbs20220924-2</guid>
       <pubDate>Sat, 24 Sep 2022 19:19:39 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>07:12:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
