@@ -93,32 +93,17 @@
     </item>
 
     <item>
-      <title>Ted Lasso (again) - it’s the space about kissing.</title>
-      <description>
-      </description>
-      <enclosure
-        url=""
-        length=""
-        type="audio/mpeg"
-        />
-      <guid>tbs20220925</guid>
-      <pubDate>Sun, 25 Sep 2022 22:08:13 GMT</pubDate>
-      <itunes:duration></itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-
-    <item>
       <title>Ted Lasso Kissing Booth. And other stuff. (Math, somehow)</title>
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20220926-1 Ted Lasso Kissing Booth. And other stuff. (Math, somehow) [1OyKAVwYVkNGb].mp3"
+        length="68765832"
         type="audio/mpeg"
         />
       <guid>tbs20220926-1</guid>
       <pubDate>Mon, 26 Sep 2022 00:11:46 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>02:01:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
