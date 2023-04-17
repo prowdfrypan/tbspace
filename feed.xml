@@ -148,7 +148,7 @@
         />
       <guid>tbs20221003</guid>
       <pubDate>Mon, 03 Oct 2022 03:04:10 GMT</pubDate>
-      <itunes:duration>2:05:42</itunes:duration>
+      <itunes:duration>02:05:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -157,13 +157,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221005 Ted Lasso： it’s the one about kissing. (They’re all about kissing) [1yNGaNjvZLVJj].mp3"
+        length="128973936"
         type="audio/mpeg"
         />
       <guid>tbs20221005</guid>
       <pubDate>Wed, 05 Oct 2022 20:59:02 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>04:00:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
