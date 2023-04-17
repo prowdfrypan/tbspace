@@ -142,13 +142,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221003 Ted Lasso feat kissing but also other stuff. [1ZkKzXwqMDrJv].mp3"
+        length="71493264"
         type="audio/mpeg"
         />
       <guid>tbs20221003</guid>
       <pubDate>Mon, 03 Oct 2022 03:04:10 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>2:05:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
