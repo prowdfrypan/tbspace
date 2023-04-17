@@ -127,13 +127,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20220928 [redacted] - take your meds chat [1dRKZMwzjVdxB].mp3"
+        length="81187320"
         type="audio/mpeg"
         />
       <guid>tbs20220928</guid>
       <pubDate>Wed, 28 Sep 2022 21:30:06 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>02:21:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
