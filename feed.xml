@@ -172,13 +172,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221007 TedBecca at Wembley, because I can’t wait for tonight. [1MYxNgWoEzzKw].mp3"
+        length="70481880"
         type="audio/mpeg"
         />
       <guid>tbs20221007</guid>
       <pubDate>Fri, 07 Oct 2022 20:41:38 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>02:07:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
