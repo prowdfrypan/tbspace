@@ -112,13 +112,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20220926-2 Ted Lasso - it’s the chat about kissing. [1djGXlBPnVRGZ].mp3"
+        length="85488840"
         type="audio/mpeg"
         />
       <guid>tbs20220926-2</guid>
       <pubDate>Mon, 26 Sep 2022 21:25:06 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>02:35:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
