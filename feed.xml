@@ -187,13 +187,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221008-1 Talking TedBecca and other things.  (Your night might get ruined) [1ZkKzXwjjOaJv].mp3"
+        length="158299944"
         type="audio/mpeg"
         />
       <guid>tbs20221008-1</guid>
       <pubDate>Sat, 08 Oct 2022 00:49:57 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>04:38:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
