@@ -1098,5 +1098,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>TedBecca Tuesday Eve. - predictions - DO NOT SPOIL</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230417 TedBecca Tuesday Eve. - predictions - DO NOT SPOIL [1mrGmknzRWkxy].mp3"
+        length="88234176"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230417</guid>
+      <pubDate>Mon, 17 Apr 2023 23:59:49 GMT</pubDate>
+      <itunes:duration>02:47:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
