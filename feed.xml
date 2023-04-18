@@ -232,13 +232,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221011 TedBecca, Dorgle and weird food combos. [1YqJDoMVXwvGV].mp3"
+        length="98580504"
         type="audio/mpeg"
         />
       <guid>tbs20221011</guid>
       <pubDate>Tue, 11 Oct 2022 21:02:02 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>02:49:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
