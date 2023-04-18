@@ -217,13 +217,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221010 Ted Lasso sort of but not really- math, linguistics and kissing [1zqJVPvnqoWKB].mp3"
+        length="143531832"
         type="audio/mpeg"
         />
       <guid>tbs20221010</guid>
       <pubDate>Mon, 10 Oct 2022 21:14:40 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>04:16:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
