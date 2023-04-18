@@ -247,13 +247,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221012 TedBecca and Jam. IYKYK [1RDGlajoZBDJL].mp3"
+        length="142258704"
         type="audio/mpeg"
         />
       <guid>tbs20221012</guid>
       <pubDate>Wed, 12 Oct 2022 20:10:24 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>04:13:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -1103,13 +1103,28 @@
       <description>
       </description>
       <enclosure
-        url="https://feedthedog.synology.me/tbspace/audio/20230417 TedBecca Tuesday Eve. - predictions - DO NOT SPOIL [1mrGmknzRWkxy].mp3"
+        url="https://feedthedog.synology.me/tbspace/audio/20230417-1 TedBecca Tuesday Eve. - predictions - DO NOT SPOIL [1mrGmknzRWkxy].mp3"
         length="88234176"
         type="audio/mpeg"
         />
-      <guid>tbs20230417</guid>
-      <pubDate>Mon, 17 Apr 2023 23:59:49 GMT</pubDate>
+      <guid>tbs20230417-1</guid>
+      <pubDate>Mon, 17 Apr 2023 21:11:09 GMT</pubDate>
       <itunes:duration>02:47:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>TedBecca Tuesday Eve - predictions but NO SPOILERS</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/"
+        length=""
+        type="audio/mpeg"
+        />
+      <guid>tbs20230417-2</guid>
+      <pubDate>Mon, 17 Apr 2023 23:59:49 GMT</pubDate>
+      <itunes:duration></itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
