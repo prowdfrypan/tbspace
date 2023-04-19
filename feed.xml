@@ -293,13 +293,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221019-1 Another week with no new TedBecca content - airport theories？ [1djGXlawYDEGZ].mp3"
+        length="22474344"
         type="audio/mpeg"
         />
       <guid>tbs20221019-1</guid>
       <pubDate>Wed, 19 Oct 2022 20:58:17 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>43:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
