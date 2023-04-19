@@ -1128,5 +1128,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>TedBecca Tuesday - Ep reactions</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230419 TedBecca Tuesday - Ep reactions [1MYGNgqOggpJw].mp3"
+        length="108093408"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230419</guid>
+      <pubDate>Wed, 19 Apr 2023 02:02:49 GMT</pubDate>
+      <itunes:duration>03:18:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
