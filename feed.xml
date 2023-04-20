@@ -383,13 +383,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221028 TedBecca and the World Series (and Dorgle) [1YpKkgPPXlAKj].mp3"
+        length="227651016"
         type="audio/mpeg"
         />
       <guid>tbs20221028</guid>
       <pubDate>Fri, 28 Oct 2022 20:58:00 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>07:09:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
