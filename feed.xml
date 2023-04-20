@@ -398,13 +398,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221029-1 Tenth inning TedBecca [1nAKErllajRGL].mp3"
+        length="18435504"
         type="audio/mpeg"
         />
       <guid>tbs20221029-1</guid>
       <pubDate>Sat, 29 Oct 2022 04:07:20 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>33:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
