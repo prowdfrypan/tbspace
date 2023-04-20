@@ -413,13 +413,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221029-2 World Series Game 2 and TedBecca. (And you know…stuff) [1kvJpmzLEQoxE].mp3"
+        length="10585296"
         type="audio/mpeg"
         />
       <guid>tbs20221029-2</guid>
       <pubDate>Sat, 29 Oct 2022 23:25:48 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>20:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -428,13 +428,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221029-3 World Series Game 2 and TedBecca (and stuff) [1MYxNgvDdypKw].mp3"
+        length="114304080"
         type="audio/mpeg"
         />
       <guid>tbs20221029-3</guid>
       <pubDate>Sat, 29 Oct 2022 23:46:42 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>03:37:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
