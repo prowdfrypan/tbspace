@@ -353,13 +353,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221024 TedBecca, Walk with Hannah, and the offside rule. (Seriously!) [1gqxvymoXekJB].mp3"
+        length="127954272"
         type="audio/mpeg"
         />
       <guid>tbs20221024</guid>
       <pubDate>Mon, 24 Oct 2022 21:22:15 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>03:59:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
