@@ -443,13 +443,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221101 TedBecca Tuesday. (Let’s talk mama lasso and Bryce Harper!) [1OwGWwgoADRGQ].mp3"
+        length="117735528"
         type="audio/mpeg"
         />
       <guid>tbs20221101</guid>
       <pubDate>Tue, 01 Nov 2022 22:30:37 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>03:20:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -458,13 +458,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221102-1 TedBecca Tuesday (let’s talk mama lasso) [1lDxLnbkLkmGm].mp320221102-1 TedBecca Tuesday (let’s talk mama lasso) [1lDxLnbkLkmGm].mp3"
+        length="49156416"
         type="audio/mpeg"
         />
       <guid>tbs20221102-1</guid>
       <pubDate>Wed, 02 Nov 2022 01:51:48 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>01:27:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -473,13 +473,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221102-2 Welton-Lasso Wednesday, other stuff plus a new Chloe enters the Villa. [1nAJErlQREvxL].mp3"
+        length="32367888"
         type="audio/mpeg"
         />
       <guid>tbs20221102-2</guid>
       <pubDate>Wed, 02 Nov 2022 22:10:24 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>01:04:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -488,13 +488,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221102-3 A new Chloe Enters the villa - TedBecca and filming stories! [1RDGlaDWQvoJL].mp3"
+        length="109602384"
         type="audio/mpeg"
         />
       <guid>tbs20221102-3</guid>
       <pubDate>Wed, 02 Nov 2022 23:15:24 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>03:19:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -503,13 +503,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221103 TedBecca Thursday and stuff. Just vibes. [1OyKAVzeWbyGb].mp3"
+        length="120341184"
         type="audio/mpeg"
         />
       <guid>tbs20221103</guid>
       <pubDate>Thu, 03 Nov 2022 23:24:16 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>03:39:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -518,13 +518,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221104 TedBecca It’s Friday.  (also tacos and first concert⧸best concert) [1BRJjZOBZAjJw].mp3"
+        length="37973520"
         type="audio/mpeg"
         />
       <guid>tbs20221104</guid>
       <pubDate>Fri, 04 Nov 2022 22:04:39 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>01:08:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -1140,6 +1140,21 @@
       <guid>tbs20230419</guid>
       <pubDate>Wed, 19 Apr 2023 02:02:49 GMT</pubDate>
       <itunes:duration>03:18:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>TedBecca Thursday - episode spoilers, reactions and criticisms.</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230421 TedBecca Thursday - episode spoilers, reactions and criticisms. [1vOxwMVAeNMGB].mp3"
+        length="66795216"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230421</guid>
+      <pubDate>Fri, 21 Apr 2023 00:07:42 GMT</pubDate>
+      <itunes:duration>02:04:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
