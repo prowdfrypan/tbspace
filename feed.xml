@@ -578,13 +578,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221110 TedBecca - I’ve got 90 minutes. Let’s talk filming spoilers？ [1MnxnpbyWQMGO].mp3"
+        length="41433216"
         type="audio/mpeg"
         />
       <guid>tbs20221110</guid>
       <pubDate>Thu, 10 Nov 2022 21:56:59 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>01:17:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
