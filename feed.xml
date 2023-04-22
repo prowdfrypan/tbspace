@@ -563,13 +563,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221107 Ted Lasso s3 is a myth. Sudoku will pay for his crimes. (Also kissing) [1gqGvyPLdmwKB].mp3"
+        length="110541312"
         type="audio/mpeg"
         />
       <guid>tbs20221107</guid>
       <pubDate>Mon, 07 Nov 2022 23:38:09 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>03:25:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
