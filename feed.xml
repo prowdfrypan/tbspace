@@ -593,13 +593,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221111 Pho Friday with TedBecca, Thundergong and movie star HWads. [1lPKqBjRpNbGb].mp3"
+        length="162841224"
         type="audio/mpeg"
         />
       <guid>tbs20221111</guid>
       <pubDate>Fri, 11 Nov 2022 22:51:31 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>05:05:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
