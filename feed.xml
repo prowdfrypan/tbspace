@@ -728,13 +728,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221129-2 TedBecca Tuesday v2.0 [1LyGBqZPXynKN].mp3"
+        length="20031072"
         type="audio/mpeg"
         />
       <guid>tbs20221129-2</guid>
       <pubDate>Tue, 29 Nov 2022 22:55:50 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>35:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
