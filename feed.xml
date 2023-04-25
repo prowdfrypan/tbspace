@@ -788,13 +788,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20230110 TedBecca Tuesday - still no new info!! [1yNxaNeXZVRKj].mp3"
+        length="57359472"
         type="audio/mpeg"
         />
       <guid>tbs20230110</guid>
       <pubDate>Mon, 10 Jan 2023 22:18:39 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>01:54:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
