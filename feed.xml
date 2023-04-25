@@ -713,13 +713,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221129-1 TedBecca Tues - is this thing on？ (I have 90 min & we have no content) [1vAGRAmZAWYKl].mp3"
+        length="36807864"
         type="audio/mpeg"
         />
       <guid>tbs20221129-1</guid>
       <pubDate>Tue, 29 Nov 2022 21:50:48 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>01:04:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
