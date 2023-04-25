@@ -668,13 +668,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20221116 TedBecca, Nando’s and questions. [1BdGYyLEaqEGX].mp3"
+        length="84939600"
         type="audio/mpeg"
         />
       <guid>tbs20221116</guid>
       <pubDate>Wed, 16 Nov 2022 23:13:26 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>02:35:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
