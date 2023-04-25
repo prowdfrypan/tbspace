@@ -803,13 +803,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20230113 It’s Friday, TedBecca’s in love!! (Not a spoiler, just fact) [1zqKVPzqwvAJB].mp3"
+        length="68409432"
         type="audio/mpeg"
         />
       <guid>tbs20230113</guid>
       <pubDate>Thu, 13 Jan 2023 20:52:00 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>02:05:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
