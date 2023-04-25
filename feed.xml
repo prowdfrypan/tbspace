@@ -818,13 +818,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20230218 TedBecca (and Ted Lasso) all hail new content!!! (And kissing) [1OwxWwPaWVqxQ].mp3"
+        length="99144984"
         type="audio/mpeg"
         />
       <guid>tbs20230218</guid>
       <pubDate>Fri, 18 Feb 2023 02:33:16 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>03:15:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
