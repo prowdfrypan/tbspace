@@ -1158,5 +1158,50 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Lunch time Ted Lasso: No fighting just vibes</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230425 Lunch time Ted Lasso： No fighting just vibes 2023-04-26 02_10 [1MYGNgqlpPXJw].mp3"
+        length="137481744"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230425</guid>
+      <pubDate>Tue, 25 Apr 2023 17:46:25 GMT</pubDate>
+      <itunes:duration>04:33:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Ted Talk IX ： the teds that bind us</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230426-1 Ted Talk IX ： the teds that bind us 2023-04-26 10_10 [1ynJOaOEdlqKR].mp3"
+        length="49362048"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230426-1</guid>
+      <pubDate>Wed, 26 Apr 2023 01:57:36 GMT</pubDate>
+      <itunes:duration>01:28:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Ted Lasso Tuesday - spoilers</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230426-2 Ted Lasso Tuesday - spoilers [1OwGWwOaqemGQ].mp3"
+        length="82102104"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230426-2</guid>
+      <pubDate>Wed, 26 Apr 2023 01:57:51 GMT</pubDate>
+      <itunes:duration>02:30:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
