@@ -863,13 +863,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20230303 Ted Lasso： Richmond on 12 (days to go!) ： also TedBecca and kissing [1LyxBqBZArYJN].mp3"
+        length="182074608"
         type="audio/mpeg"
         />
       <guid>tbs20230303</guid>
       <pubDate>Thu, 03 Mar 2023 22:25:09 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>05:42:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -1161,6 +1161,7 @@
     <item>
       <title>Lunch time Ted Lasso: No fighting just vibes</title>
       <description>
+          @Olafurneal
       </description>
       <enclosure
         url="https://feedthedog.synology.me/tbspace/audio/20230425 Lunch time Ted Lasso： No fighting just vibes 2023-04-26 02_10 [1MYGNgqlpPXJw].mp3"
@@ -1176,6 +1177,7 @@
     <item>
       <title>Ted Talk IX ： the teds that bind us</title>
       <description>
+          @tedbeccas
       </description>
       <enclosure
         url="https://feedthedog.synology.me/tbspace/audio/20230426-1 Ted Talk IX ： the teds that bind us 2023-04-26 10_10 [1ynJOaOEdlqKR].mp3"
