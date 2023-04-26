@@ -848,13 +848,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20230228 Ted Lasso, TedBecca trailer talk. (May contain spoilers) [1kvKpmQrakaGE].mp3"
+        length="114589392"
         type="audio/mpeg"
         />
       <guid>tbs20230228</guid>
       <pubDate>Mon, 28 Feb 2023 22:27:24 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>03:43:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
