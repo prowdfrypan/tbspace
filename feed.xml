@@ -833,13 +833,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20230225 Ted Lasso, TedBecca, maybe Shrinking？  Abbott？ probsLIGHT spoilers. [1mrxmkeQmanGy].mp3"
+        length="114330120"
         type="audio/mpeg"
         />
       <guid>tbs20230225</guid>
       <pubDate>Fri, 25 Feb 2023 22:51:12 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>03:35:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
