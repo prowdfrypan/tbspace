@@ -938,13 +938,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20230322 Ted Lasso Spoilers. TEDBECCA [1OwxWwoelWDxQ].mp3"
+        length="55462008"
         type="audio/mpeg"
         />
       <guid>tbs20230322</guid>
       <pubDate>Tue, 22 Mar 2023 01:48:23 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>01:43:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
