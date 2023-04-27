@@ -908,13 +908,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20230316 Ted Lasso - premiere, press, and TEDBECCA talk. [1RDxlamROBdKL].mp3"
+        length="65242032"
         type="audio/mpeg"
         />
       <guid>tbs20230316</guid>
       <pubDate>Wed, 16 Mar 2023 22:25:33 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>02:04:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
