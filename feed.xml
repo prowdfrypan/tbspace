@@ -923,13 +923,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20230318 Saturday Ted Lasso⧸TedBecca space!! [1vOGwMOZYOvxB].mp3"
+        length="182002488"
         type="audio/mpeg"
         />
       <guid>tbs20230318</guid>
       <pubDate>Fri, 18 Mar 2023 17:04:39 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>05:49:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
