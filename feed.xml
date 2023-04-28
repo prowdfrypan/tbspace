@@ -953,13 +953,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20230323 Ted Lasso Thursday - spoilers, TedBecca, predictions… [1lPKqBpQeOWGb].mp3"
+        length="66390240"
         type="audio/mpeg"
         />
       <guid>tbs20230323</guid>
       <pubDate>Wed, 23 Mar 2023 22:51:30 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>02:07:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -1202,6 +1202,21 @@
       <guid>tbs20230426-2</guid>
       <pubDate>Wed, 26 Apr 2023 01:57:51 GMT</pubDate>
       <itunes:duration>02:30:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>CHAOS SPACE - not recorded, no spark notes. IYKYK.</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230427 CHAOS SPACE - not recorded, no spark notes. IYKYK. 2023-04-28 06_22 [1RDxlaqBdAMKL].mp3"
+        length="180540216"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230427</guid>
+      <pubDate>Thu, 27 Apr 2023 22:19:39 GMT</pubDate>
+      <itunes:duration>05:40:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
