@@ -1013,13 +1013,13 @@
       <description>
       </description>
       <enclosure
-        url=""
-        length=""
+        url="https://feedthedog.synology.me/tbspace/audio/20230406 TedBecca Thursday - no chaos but SPOILERS RECORDING [1OwxWwEqZnWxQ].mp3"
+        length="144854280"
         type="audio/mpeg"
         />
       <guid>tbs20230406</guid>
       <pubDate>Thu, 06 Apr 2023 22:28:50 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>04:34:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
