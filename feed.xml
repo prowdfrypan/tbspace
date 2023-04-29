@@ -1220,5 +1220,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Friday Night CHAOS - hiding in plain sight. BEHAVE</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230428 Friday Night CHAOS - hiding in plain sight. BEHAVE 2023-04-29 06_10 [1lPJqBdWRVLxb].mp3"
+        length="132362616"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230428</guid>
+      <pubDate>Fri, 28 Apr 2023 21:29:30 GMT</pubDate>
+      <itunes:duration>03:59:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
