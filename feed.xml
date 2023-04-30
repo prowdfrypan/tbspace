@@ -1235,5 +1235,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Saturday Night’s Alright (For Chaos)</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230429 Saturday Night’s Alright (For Chaos) 2023-04-30 06_50 [1OwGWwOpEEqGQ].mp3"
+        length="125413896"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230429</guid>
+      <pubDate>Sat, 29 Apr 2023 22:49:43 GMT</pubDate>
+      <itunes:duration>03:59:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
