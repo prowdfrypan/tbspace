@@ -1250,5 +1250,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+        <item>
+      <title>TedBecca Tuesday!!</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230503 TedBecca Tuesday!! [1ZkKzXkVlYaJv].mp3"
+        length="77904336"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230503</guid>
+      <pubDate>Wed, 03 May 2023 01:55:45 GMT</pubDate>
+      <itunes:duration>02:24:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
