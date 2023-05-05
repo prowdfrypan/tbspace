@@ -1265,5 +1265,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>TedBecca Thursday - BOTS ONLY (ep talk, spoilers, predictions?)</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230504 TedBecca Thursday - BOTS ONLY (ep talk, spoilers, predictions？) [1gqxvynEgvQJB].mp3"
+        length="178852464"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230504</guid>
+      <pubDate>Thu, 04 May 2023 21:59:27 GMT</pubDate>
+      <itunes:duration>04:57:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
