@@ -1280,5 +1280,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Saturday TedBecca : spoilers, predictions, day drinking??</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230506 Saturday TedBecca ： spoilers, predictions, day drinking？？ [1YqKDoykBRAxV].mp3"
+        length="183622248"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230506</guid>
+      <pubDate>Sat, 06 May 2023 20:39:48 GMT</pubDate>
+      <itunes:duration>05:26:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
