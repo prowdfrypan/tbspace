@@ -1295,5 +1295,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>TedBecca Tuesday: Crumbs? Maybe some West Wing??</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230510 TedBecca Tuesday： Crumbs？ Maybe some West Wing？？ [1eaKbrvDlvRKX].mp3"
+        length="71689440"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230510</guid>
+      <pubDate>Wed, 10 May 2023 01:44:51 GMT</pubDate>
+      <itunes:duration>02:17:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
