@@ -1300,13 +1300,28 @@
       <description>
       </description>
       <enclosure
-        url="https://feedthedog.synology.me/tbspace/audio/20230510 TedBecca Tuesday： Crumbs？ Maybe some West Wing？？ [1eaKbrvDlvRKX].mp3"
+        url="https://feedthedog.synology.me/tbspace/audio/20230510-1 TedBecca Tuesday： Crumbs？ Maybe some West Wing？？ [1eaKbrvDlvRKX].mp3"
         length="71689440"
         type="audio/mpeg"
         />
-      <guid>tbs20230510</guid>
+      <guid>tbs20230510-1</guid>
       <pubDate>Wed, 10 May 2023 01:44:51 GMT</pubDate>
       <itunes:duration>02:17:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>three episodes left?!?? take two</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230510-2 three episodes left？!？？ take two 2023-05-10 12_20 [1nAKErzlkYyGL].mp3"
+        length="52677528"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230510-2</guid>
+      <pubDate>Wed, 10 May 2023 01:48:54 GMT</pubDate>
+      <itunes:duration>01:40:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
