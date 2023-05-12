@@ -1325,5 +1325,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>TedBecca Thursday, Eurovision thirsting, spoilers.</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230511 TedBecca Thursday, Eurovision thirsting, spoilers. [1yoKMZELpARGQ].mp3"
+        length="112814928"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230511</guid>
+      <pubDate>Thu, 11 May 2023 21:16:02 GMT</pubDate>
+      <itunes:duration>03:29:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
