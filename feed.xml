@@ -1340,5 +1340,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Ted Lasso and Eurovision vibes.  Post your fave Hannah pic from ESC</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230513 Ted Lasso and Eurovision vibes.  Post your fave Hannah pic from ESC 2023-05-14 07_16 [1dRKZMmAnRoxB].mp3"
+        length="128176032"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230513</guid>
+      <pubDate>Sat, 13 May 2023 21:16:02 GMT</pubDate>
+      <itunes:duration>03:42:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
