@@ -1370,5 +1370,35 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Ted Talk X: to Ted or Not to Ted</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230517-2 Ted Talk X： to Ted or Not to Ted 2023-05-17 10_08 [1rmGPkeYLMVKN].mp3"
+        length="56875224"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230517-2</guid>
+      <pubDate>Wed, 17 May 2023 02:05:24 GMT</pubDate>
+      <itunes:duration>01:47:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>TedBecca Tuesday - No Ls HERE.</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230517-3 TedBecca Tuesday - No Ls HERE. [1OwxWwkLazNxQ].mp3"
+        length="83299680"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230517-3</guid>
+      <pubDate>Wed, 17 May 2023 02:04:30 GMT</pubDate>
+      <itunes:duration>02:33:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
