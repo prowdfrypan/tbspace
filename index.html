@@ -1,1 +1,47 @@
-<h>hello</h1>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Podcast</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+	<h1>My Podcast</h1>
+	<audio id="podcast-player" controls>
+		<source src="" type="audio/mpeg">
+		Your browser does not support the audio element.
+	</audio>
+	<ul id="podcast-playlist"></ul>
+	<script>
+		// Load the XML file
+		var xhr = new XMLHttpRequest();
+		xhr.onreadystatechange = function() {
+			if (this.readyState == 4 && this.status == 200) {
+				// Parse the XML file
+				var xml = this.responseXML;
+				var episodes = xml.getElementsByTagName("title");
+				// Create the playlist
+				var playlist = document.getElementById("podcast-playlist");
+				for (var i = 0; i < episodes.length; i++) {
+					var episode = episodes[i];
+					var title = episode.getElementsByTagName("title")[0].textContent;
+					var url = episode.getElementsByTagName("url")[0].textContent;
+					var li = document.createElement("li");
+					var a = document.createElement("a");
+					a.textContent = title;
+					a.href = "#";
+					a.addEventListener("click", function() {
+						var audio = document.getElementById("podcast-player");
+						audio.src = url;
+						audio.play();
+					});
+					li.appendChild(a);
+					playlist.appendChild(li);
+				}
+			}
+		};
+		xhr.open("GET", "feed.xml", true);
+		xhr.send();
+	</script>
+</body>
+</html>
