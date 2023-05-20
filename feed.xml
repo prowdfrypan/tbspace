@@ -1400,5 +1400,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>TedBecca Thursday - BLOCKED edition, spoilers, spec, etc</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230518 TedBecca Thursday - BLOCKED edition, spoilers, spec, etc [1jMJgLvBzBkxL].mp3"
+        length="99503064"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230518</guid>
+      <pubDate>Thu, 18 May 2023 21:41:07 GMT</pubDate>
+      <itunes:duration>03:17:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
