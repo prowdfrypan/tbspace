@@ -1431,5 +1431,65 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Eff It. Emergency Space - we will be Amsterdaming. SryNotSry Ted Lasso</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230522 Eff It. Emergency Space - we will be Amsterdaming. SryNotSry Ted Lasso [1mrGmkrjAPvxy].mp3"
+        length="121349016"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230522</guid>
+      <pubDate>Mon, 22 May 2023 19:05:01 GMT</pubDate>
+      <itunes:duration>03:36:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Ted Talk XII : Sleepless in SeaTED</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230524-1 Ted Talk XII ： Sleepless in SeaTED 2023-05-24 10_27 [1MYxNgPBmBOKw].mp3"
+        length="22175064"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230524-1</guid>
+      <pubDate>Wed, 24 May 2023 02:09:36 GMT</pubDate>
+      <itunes:duration>43:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>TEDBECCA SCREAMFEST</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230524-2 TEDBECCA SCREAMFEST 2023-05-24 10_27 [1OdKrzLwVweKX].mp3"
+        length="80282304"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230524-2</guid>
+      <pubDate>Wed, 24 May 2023 02:09:38 GMT</pubDate>
+      <itunes:duration>02:33:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>TedBecca Tuesday</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230524-3 TedBecca Tuesday [1djGXlRwqEyGZ].mp3"
+        length="109130040"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230524-3</guid>
+      <pubDate>Wed, 24 May 2023 02:11:44 GMT</pubDate>
+      <itunes:duration>03:17:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
