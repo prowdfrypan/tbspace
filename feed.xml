@@ -1491,5 +1491,85 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>what was it all for</title>
+      <description>
+      Ted Lasso bitch session (affectionate) [1OyKAVeypOzGb]
+      shelby @babyshowbizz
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230527 Ted Lasso bitch session (affectionate) [1OyKAVeypOzGb].mp3"
+        length="649021466"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230527</guid>
+      <pubDate>Sat, 27 May 2023 20:29:52 GMT</pubDate>
+      <itunes:duration>04:30:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>TAKE TWO BISCUITS HOUR</title>
+      <description>
+      cait @bossassbyers
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230531-1 TAKE TWO BISCUITS HOUR 2023-05-31 09_26 [1MnxnpEDrBeGO].mp3"
+        length="36559776"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230531-1</guid>
+      <pubDate>Wed, 31 May 2023 01:19:19 GMT</pubDate>
+      <itunes:duration>01:05:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>BISCUITS ROUND THREE!?!</title>
+      <description>
+      cait @bossassbyers
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230531-2 BISCUITS ROUND THREE!？! 2023-05-31 10_44 [1yoKMZzypOwGQ].mp3"
+        length="42474120"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230531-2</guid>
+      <pubDate>Wed, 31 May 2023 02:32:42 GMT</pubDate>
+      <itunes:duration>01:15:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Ted talk XII： fuck that</title>
+      <description>
+      soup @tedbeccas
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230531-3 Ted talk XII： fuck that 2023-05-31 13_16 [1RDxlaNyNPkKL].mp3"
+        length="67376208"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230531-3</guid>
+      <pubDate>Wed, 31 May 2023 05:16:10 GMT</pubDate>
+      <itunes:duration>02:09:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Ted lasso: it’s joever</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/"
+        length=""
+        type="audio/mpeg"
+        />
+      <guid>tbs20230531-4</guid>
+      <pubDate>Wed, 31 May 2023 05:16:21 GMT</pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
