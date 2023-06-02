@@ -1571,5 +1571,20 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>TedBecca Thursday - sad, but not alone.</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230601 TedBecca Thursday - sad, but not alone. [1eaJbrQEqEnJX].mp3"
+        length="154972440"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230601</guid>
+      <pubDate>Thu, 01 Jun 2023 21:59:44 GMT</pubDate>
+      <itunes:duration>04:32:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
