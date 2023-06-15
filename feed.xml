@@ -1586,5 +1586,51 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>TedBecca Tuesday - one week on, cheers, jeers and a Christmas special?</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230606 TedBecca Tuesday - one week on, cheers, jeers and a Christmas special？ [1RDGlaQZOwrJL].mp3"
+        length="143657160"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230606</guid>
+      <pubDate>Tue, 06 Jun 2023 22:03:30 GMT</pubDate>
+      <itunes:duration>04:28:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Mental Illness live coverage</title>
+      <description>
+        @CasaraSmith
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230611 Mental Illness live coverage 2023-06-11 14_43 [1yoJMZaWwjzxQ].mp3"
+        length="44126808"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230611</guid>
+      <pubDate>Sun, 11 Jun 2023 03:22:05 GMT</pubDate>
+      <itunes:duration>01:19:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>TedBecca Tuesday - Two Weeks Down - which kind of truther are you?</title>
+      <description>
+      </description>
+      <enclosure
+        url="https://feedthedog.synology.me/tbspace/audio/20230613 TedBecca Tuesday - Two Weeks Down - which kind of truther are you？ [1nAKErAvWgkGL].mp3"
+        length="147842184"
+        type="audio/mpeg"
+        />
+      <guid>tbs20230613</guid>
+      <pubDate>Tue, 13 Jun 2023 22:03:50 GMT</pubDate>
+      <itunes:duration>04:28:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
